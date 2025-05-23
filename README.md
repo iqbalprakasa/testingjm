@@ -1,5 +1,5 @@
 ## How to run
---need php 8.2
+- [need php 8.2]
 --need node 20.17
 --composer install
 --npm install
