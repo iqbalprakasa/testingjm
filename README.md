@@ -3,6 +3,7 @@
 --need node 20.17
 --composer install
 --npm install
+--create .env
 --php artisan migrate
 --php artisan db:seed
 --npm run dev
